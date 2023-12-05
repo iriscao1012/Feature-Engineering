@@ -1,6 +1,6 @@
 # Feature-Engineering
 
-#Goal: Predict the sales price for each house. 
+#Goal: a Kaggle Project to predict the sales price for each house. 
 
 #For each Id in the test set, predict the value of the SalePrice variable. 
 
